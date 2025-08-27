@@ -1,0 +1,8 @@
+{
+  "cities": [
+    { "name": "Bengaluru", "temperature": "28°C", "humidity": "60%", "condition": "Sunny" },
+    { "name": "Delhi", "temperature": "35°C" , "humidity": "30%", "condition": "Hot" },
+    { "name": "Mumbai", "temperature": "32°C", "humidity": "70%", "condition": "Humid" },
+    { "name": "Chennai", "temperature": "34°C", "humidity": "65%", "condition": "Sunny" }
+  ]
+}
