@@ -62,3 +62,5 @@ Using Maven for dependency management, build automation, and project structure.
 Implementing error handling to ensure robust and reliable execution.
 
 OUTPUT:
+
+<img width="503" height="155" alt="Image" src="https://github.com/user-attachments/assets/1e70e192-74fd-477a-86ef-04a24c746d51" />
